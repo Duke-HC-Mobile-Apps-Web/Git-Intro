@@ -1,0 +1,4 @@
+Name: Jihane Bettahi 
+Year: Sophomore/ Class 2018 
+Majors: ECE & CS
+Favorite programming language: Python
