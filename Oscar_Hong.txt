@@ -1,0 +1,3 @@
+Year: Freshman
+Major: Computer Science
+Favourite programming languages: Java and Python
